@@ -1,6 +1,7 @@
 # Hi there, I'm Sadia Islam Mim 👋
 
 ### 🎓 About Me
+**Education:** Studying Computer Science & Engineering (CSE) at **United International University (UIU)** 🚀
 - 🔭 **I’m currently working on:** Artificial Intelligence and Software Engineering projects.
 - 🌱 **I’m currently learning:** AI, Software Engineering (SE), Advanced Python, Git & Algorithm Optimization.
 - 👯 **I’m looking to collaborate on:** Open-source Python projects and AI/ML initiatives.
