@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there, I'm Sadia Islam Mim 👋
+# Hi there, I'm Sadia Islam Mim 👋
 
 ### 🎓 About Me
 - 🔭 **Education:** Studying Computer Science & Engineering (CSE) at **United International University (UIU)** 🚀
